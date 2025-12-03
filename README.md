@@ -1,7 +1,5 @@
 <!-- Dark Background Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x200/0d1117/ffffff?text=Prakash+Kumar+%7C+DevOps+Engineer" />
-</p>
+
 
 <h1 align="center">👨‍💻 Prakash Kumar</h1>
 <p align="center">🚀 DevOps Engineer | Automation Enthusiast | Cloud-Native Learner</p>
@@ -38,13 +36,7 @@ I love working on **automation, infrastructure, CI/CD pipelines, and Kubernetes*
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Scripting-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
 
-## 📊 GitHub Stats (Dark Mode)
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
